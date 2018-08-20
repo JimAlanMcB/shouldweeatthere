@@ -226,7 +226,7 @@ nav h1 a {
   display: block;
   margin: 0;
   max-width: 100%;
-  min-height: 248px;
+  /* min-height: 248px;  REVIEW ADJUSTMENT 8/20*/
   min-width: 100%;
   padding-top: 10px;
   border-radius: 4px;
